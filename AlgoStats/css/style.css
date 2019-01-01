@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    color : blue;
+}
+
+p.warning {
+    color: red;
+    font-weight: bold;
+}
+
+p.advice {
+    color: green;
+}
+
+fieldset {
+  text-align: center;
+}
